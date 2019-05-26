@@ -1,0 +1,7 @@
+id=eu.bednarz.port.samsungweather
+name=One UI Weather Port
+version=v1
+versionCode=1
+author=RocketSauce83, maintained by @DennisBednarz
+description=Reupload of RocketSauce83's Samsung Weather port. Only confirmed to work with AOSP, OSS and LineageOS based on Android 9.0.
+minMagisk=17000
